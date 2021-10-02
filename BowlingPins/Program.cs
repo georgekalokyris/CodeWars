@@ -57,5 +57,15 @@ namespace BowlingPins
 
             return string.Join("\n", string.Join("",Bowl4), string.Join("", Bowl3), string.Join("", Bowl2), string.Join("", Bowl1));
         }
+
+
+        //Another smart solution is
+        //public class Bowling
+        //{
+        //    public string BowlingPins(int[] arr)
+        //      => string.Format("{6} {7} {8} {9}\n {3} {4} {5} \n  {1} {2}  \n   {0}   ", Enumerable.Range(1, 10).Select(x => arr.Contains(x) ? " " : "I").ToArray());
+        //}
     }
 }
+
+
