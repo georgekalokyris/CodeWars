@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-\\https://www.codewars.com/kata/583710ccaa6717322c000105/train/csharp
+//https://www.codewars.com/kata/583710ccaa6717322c000105/train/csharp
 namespace SimpleMultiplication
 {
     class Program
