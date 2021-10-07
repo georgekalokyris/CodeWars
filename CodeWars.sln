@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountASprial", "CountASpria
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PasswordCheckBinaryToString", "PasswordCheckBinaryToString\PasswordCheckBinaryToString.csproj", "{7D62F5AD-61BD-4728-8BD4-07ECCBEE0366}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Watermelon", "Watermelon\Watermelon.csproj", "{2DBD6B84-E4CB-4979-866E-1D85902A8F48}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{7D62F5AD-61BD-4728-8BD4-07ECCBEE0366}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D62F5AD-61BD-4728-8BD4-07ECCBEE0366}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D62F5AD-61BD-4728-8BD4-07ECCBEE0366}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DBD6B84-E4CB-4979-866E-1D85902A8F48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DBD6B84-E4CB-4979-866E-1D85902A8F48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DBD6B84-E4CB-4979-866E-1D85902A8F48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DBD6B84-E4CB-4979-866E-1D85902A8F48}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
