@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoZerosForHeros", "NoZerosF
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StripComments", "StripComments\StripComments.csproj", "{73FADC04-A3DA-4D1A-B87A-21002FADD051}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComfortableWords", "ComfortableWords\ComfortableWords.csproj", "{1278F7D0-2006-4506-9759-1B4415334324}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{73FADC04-A3DA-4D1A-B87A-21002FADD051}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73FADC04-A3DA-4D1A-B87A-21002FADD051}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73FADC04-A3DA-4D1A-B87A-21002FADD051}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1278F7D0-2006-4506-9759-1B4415334324}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1278F7D0-2006-4506-9759-1B4415334324}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1278F7D0-2006-4506-9759-1B4415334324}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1278F7D0-2006-4506-9759-1B4415334324}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
