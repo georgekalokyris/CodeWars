@@ -42,7 +42,14 @@ namespace StripComments
                 
             }
 
-            return final;
+            if (final.EndsWith("\n\n"))
+            {
+                return final;
+            }
+            else
+            {
+                return final.Trim();
+            }
         }
 
 
