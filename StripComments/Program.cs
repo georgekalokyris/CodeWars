@@ -42,13 +42,13 @@ namespace StripComments
                 
             }
 
-            if (final.EndsWith("\n\n"))
+            if (final.EndsWith("\n"))
             {
                 return final;
             }
             else
             {
-                return final.Trim();
+                return final.TrimEnd();
             }
         }
 
