@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PasswordCheckBinaryToString
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Watermelon", "Watermelon\Watermelon.csproj", "{2DBD6B84-E4CB-4979-866E-1D85902A8F48}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoZerosForHeros", "NoZerosForHeros\NoZerosForHeros.csproj", "{B3DEB0C0-EBDE-44EC-B52A-A85830624FD1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{2DBD6B84-E4CB-4979-866E-1D85902A8F48}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2DBD6B84-E4CB-4979-866E-1D85902A8F48}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2DBD6B84-E4CB-4979-866E-1D85902A8F48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3DEB0C0-EBDE-44EC-B52A-A85830624FD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3DEB0C0-EBDE-44EC-B52A-A85830624FD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3DEB0C0-EBDE-44EC-B52A-A85830624FD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3DEB0C0-EBDE-44EC-B52A-A85830624FD1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
