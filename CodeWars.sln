@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StripComments", "StripComme
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComfortableWords", "ComfortableWords\ComfortableWords.csproj", "{1278F7D0-2006-4506-9759-1B4415334324}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveDuplicatesFromList", "RemoveDuplicatesFromList\RemoveDuplicatesFromList.csproj", "{45CCC1BD-C573-4CFB-94D2-6836965D8435}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{1278F7D0-2006-4506-9759-1B4415334324}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1278F7D0-2006-4506-9759-1B4415334324}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1278F7D0-2006-4506-9759-1B4415334324}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45CCC1BD-C573-4CFB-94D2-6836965D8435}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45CCC1BD-C573-4CFB-94D2-6836965D8435}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45CCC1BD-C573-4CFB-94D2-6836965D8435}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45CCC1BD-C573-4CFB-94D2-6836965D8435}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
