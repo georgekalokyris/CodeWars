@@ -45,6 +45,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StripComments", "StripComme
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComfortableWords", "ComfortableWords\ComfortableWords.csproj", "{1278F7D0-2006-4506-9759-1B4415334324}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HowOldWillIBeIn2099", "HowOldWillIBeIn2099\HowOldWillIBeIn2099.csproj", "{D0FEFA53-D445-463D-A98C-A4B69EA58431}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateAgeTests", "CalculateAgeTests\CalculateAgeTests.csproj", "{7CB3D961-E7CE-4828-A6BB-9F42C3B6DD54}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +139,14 @@ Global
 		{1278F7D0-2006-4506-9759-1B4415334324}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1278F7D0-2006-4506-9759-1B4415334324}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1278F7D0-2006-4506-9759-1B4415334324}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0FEFA53-D445-463D-A98C-A4B69EA58431}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0FEFA53-D445-463D-A98C-A4B69EA58431}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0FEFA53-D445-463D-A98C-A4B69EA58431}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0FEFA53-D445-463D-A98C-A4B69EA58431}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CB3D961-E7CE-4828-A6BB-9F42C3B6DD54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CB3D961-E7CE-4828-A6BB-9F42C3B6DD54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CB3D961-E7CE-4828-A6BB-9F42C3B6DD54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CB3D961-E7CE-4828-A6BB-9F42C3B6DD54}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
