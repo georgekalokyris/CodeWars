@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComfortableWords", "Comfort
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveDuplicatesFromList", "RemoveDuplicatesFromList\RemoveDuplicatesFromList.csproj", "{45CCC1BD-C573-4CFB-94D2-6836965D8435}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenOrOdd-WhichisGreater", "EvenOrOdd-WhichisGreater\EvenOrOdd-WhichisGreater.csproj", "{81AEE734-5FE8-4BAE-92AB-C168F89B1D92}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{45CCC1BD-C573-4CFB-94D2-6836965D8435}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45CCC1BD-C573-4CFB-94D2-6836965D8435}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45CCC1BD-C573-4CFB-94D2-6836965D8435}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81AEE734-5FE8-4BAE-92AB-C168F89B1D92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81AEE734-5FE8-4BAE-92AB-C168F89B1D92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81AEE734-5FE8-4BAE-92AB-C168F89B1D92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81AEE734-5FE8-4BAE-92AB-C168F89B1D92}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
