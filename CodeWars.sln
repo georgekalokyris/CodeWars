@@ -57,6 +57,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfDigits-DigitalRoot", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleFun152", "SimpleFun152\SimpleFun152.csproj", "{EA5EBD20-2532-4709-B664-BF8EF1A66143}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfOddNumbers", "SumOfOddNumbers\SumOfOddNumbers.csproj", "{4DE6B86D-B6AF-4EF1-A801-B8BF87A3D778}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -171,6 +173,10 @@ Global
 		{EA5EBD20-2532-4709-B664-BF8EF1A66143}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA5EBD20-2532-4709-B664-BF8EF1A66143}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA5EBD20-2532-4709-B664-BF8EF1A66143}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DE6B86D-B6AF-4EF1-A801-B8BF87A3D778}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DE6B86D-B6AF-4EF1-A801-B8BF87A3D778}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DE6B86D-B6AF-4EF1-A801-B8BF87A3D778}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DE6B86D-B6AF-4EF1-A801-B8BF87A3D778}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
