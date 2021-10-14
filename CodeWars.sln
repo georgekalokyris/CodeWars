@@ -61,6 +61,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfOddNumbers", "SumOfOdd
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DidSheSayHello", "DidSheSayHello\DidSheSayHello.csproj", "{0A26965A-BA8F-4921-B9D6-153E41C97B8F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrongNumber", "StrongNumber\StrongNumber.csproj", "{31376EB1-6B53-4CC1-99E2-EE7B4790788D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -183,6 +185,10 @@ Global
 		{0A26965A-BA8F-4921-B9D6-153E41C97B8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A26965A-BA8F-4921-B9D6-153E41C97B8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A26965A-BA8F-4921-B9D6-153E41C97B8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31376EB1-6B53-4CC1-99E2-EE7B4790788D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31376EB1-6B53-4CC1-99E2-EE7B4790788D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31376EB1-6B53-4CC1-99E2-EE7B4790788D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31376EB1-6B53-4CC1-99E2-EE7B4790788D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
