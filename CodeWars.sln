@@ -63,6 +63,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DidSheSayHello", "DidSheSay
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrongNumber", "StrongNumber\StrongNumber.csproj", "{31376EB1-6B53-4CC1-99E2-EE7B4790788D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoubleChar", "DoubleChar\DoubleChar.csproj", "{1DE2B59E-89D6-4A0B-BEA5-17636DDB7526}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -189,6 +191,10 @@ Global
 		{31376EB1-6B53-4CC1-99E2-EE7B4790788D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31376EB1-6B53-4CC1-99E2-EE7B4790788D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31376EB1-6B53-4CC1-99E2-EE7B4790788D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DE2B59E-89D6-4A0B-BEA5-17636DDB7526}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DE2B59E-89D6-4A0B-BEA5-17636DDB7526}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DE2B59E-89D6-4A0B-BEA5-17636DDB7526}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DE2B59E-89D6-4A0B-BEA5-17636DDB7526}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
