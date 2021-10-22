@@ -65,6 +65,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrongNumber", "StrongNumbe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoubleChar", "DoubleChar\DoubleChar.csproj", "{1DE2B59E-89D6-4A0B-BEA5-17636DDB7526}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisariumNumber", "DisariumNumber\DisariumNumber.csproj", "{ACBC7859-F347-4BE3-8DFF-48CFB431465C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -195,6 +197,10 @@ Global
 		{1DE2B59E-89D6-4A0B-BEA5-17636DDB7526}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1DE2B59E-89D6-4A0B-BEA5-17636DDB7526}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1DE2B59E-89D6-4A0B-BEA5-17636DDB7526}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACBC7859-F347-4BE3-8DFF-48CFB431465C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACBC7859-F347-4BE3-8DFF-48CFB431465C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACBC7859-F347-4BE3-8DFF-48CFB431465C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACBC7859-F347-4BE3-8DFF-48CFB431465C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
