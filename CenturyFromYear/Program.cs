@@ -17,6 +17,8 @@ namespace CenturyFromYear
             Console.WriteLine(Сentury(1601)); //17
             Console.WriteLine("--------------");
             Console.WriteLine(Сentury(2000)); //20
+            Console.WriteLine(Сentury(58476)); //20
+            Console.WriteLine(Сentury(58400)); //20
         }
 
         public static int Сentury(int year)
