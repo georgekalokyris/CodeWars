@@ -75,6 +75,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreatePhoneNumber", "Create
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsThereAVowerInThere", "IsThereAVowerInThere\IsThereAVowerInThere.csproj", "{CFF9C6DB-359E-4041-9FAA-722136716553}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilterTheNumber", "FilterTheNumber\FilterTheNumber.csproj", "{34232D3B-EE8C-4B08-BD71-513FDBDDA25F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -225,6 +227,10 @@ Global
 		{CFF9C6DB-359E-4041-9FAA-722136716553}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CFF9C6DB-359E-4041-9FAA-722136716553}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CFF9C6DB-359E-4041-9FAA-722136716553}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34232D3B-EE8C-4B08-BD71-513FDBDDA25F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34232D3B-EE8C-4B08-BD71-513FDBDDA25F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34232D3B-EE8C-4B08-BD71-513FDBDDA25F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34232D3B-EE8C-4B08-BD71-513FDBDDA25F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
