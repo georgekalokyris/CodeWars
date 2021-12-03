@@ -83,6 +83,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonotoneTravel", "MonotoneT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveFirstandLastCharPartTwo", "RemoveFirstandLastCharPartTwo\RemoveFirstandLastCharPartTwo.csproj", "{2A32D701-F8E2-4AD9-9C1D-764AA446472D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindTheFirstNonConsecutive", "FindTheFirstNonConsecutive\FindTheFirstNonConsecutive.csproj", "{014C840E-A65F-4FE7-A0CE-66E7B291BD92}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -249,6 +251,10 @@ Global
 		{2A32D701-F8E2-4AD9-9C1D-764AA446472D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A32D701-F8E2-4AD9-9C1D-764AA446472D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A32D701-F8E2-4AD9-9C1D-764AA446472D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{014C840E-A65F-4FE7-A0CE-66E7B291BD92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{014C840E-A65F-4FE7-A0CE-66E7B291BD92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{014C840E-A65F-4FE7-A0CE-66E7B291BD92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{014C840E-A65F-4FE7-A0CE-66E7B291BD92}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
