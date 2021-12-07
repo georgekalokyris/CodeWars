@@ -85,6 +85,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveFirstandLastCharPartT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindTheFirstNonConsecutive", "FindTheFirstNonConsecutive\FindTheFirstNonConsecutive.csproj", "{014C840E-A65F-4FE7-A0CE-66E7B291BD92}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitCounting", "BitCounting\BitCounting.csproj", "{5D81A8C1-90D7-40EC-B668-4308A145F17A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfNumbers", "SumOfNumbers\SumOfNumbers.csproj", "{40E0555C-D4D5-4928-B922-92B5E5A60168}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -255,6 +259,14 @@ Global
 		{014C840E-A65F-4FE7-A0CE-66E7B291BD92}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{014C840E-A65F-4FE7-A0CE-66E7B291BD92}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{014C840E-A65F-4FE7-A0CE-66E7B291BD92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D81A8C1-90D7-40EC-B668-4308A145F17A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D81A8C1-90D7-40EC-B668-4308A145F17A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D81A8C1-90D7-40EC-B668-4308A145F17A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D81A8C1-90D7-40EC-B668-4308A145F17A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40E0555C-D4D5-4928-B922-92B5E5A60168}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40E0555C-D4D5-4928-B922-92B5E5A60168}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40E0555C-D4D5-4928-B922-92B5E5A60168}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40E0555C-D4D5-4928-B922-92B5E5A60168}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
