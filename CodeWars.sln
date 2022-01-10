@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31410.357
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlphabetWar", "ConsoleApp1\AlphabetWar.csproj", "{07C0BBA4-9976-48F1-9FD0-DB474D7C679C}"
 EndProject
@@ -91,7 +91,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfNumbers", "SumOfNumber
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintingArrayElements", "PrintingArrayElements\PrintingArrayElements.csproj", "{5E63F607-B817-42AC-8C75-A9198B0D7D65}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CanalManagement", "CanalManagement\CanalManagement.csproj", "{CEF3B880-5993-4262-AA06-2179B4C0053F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CanalManagement", "CanalManagement\CanalManagement.csproj", "{CEF3B880-5993-4262-AA06-2179B4C0053F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotVerySecureKata", "NotVerySecureKata\NotVerySecureKata.csproj", "{C2C541E2-E6E6-4146-8768-5C441A2A06EB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -279,6 +281,10 @@ Global
 		{CEF3B880-5993-4262-AA06-2179B4C0053F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CEF3B880-5993-4262-AA06-2179B4C0053F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CEF3B880-5993-4262-AA06-2179B4C0053F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2C541E2-E6E6-4146-8768-5C441A2A06EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2C541E2-E6E6-4146-8768-5C441A2A06EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2C541E2-E6E6-4146-8768-5C441A2A06EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2C541E2-E6E6-4146-8768-5C441A2A06EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
